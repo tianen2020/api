@@ -20,5 +20,10 @@ global_path = os.path.join(base_path, "Config", "global.cfg")
 beta_path = os.path.join(base_path, "Config", "beta.cfg")
 # test
 test_path = os.path.join(base_path, "Config", "test.ini")
+# TestCase
+testcase_path =os.path.join(base_path,"TestCase")
+# 测试报告地址
+report_path =os.path.join(base_path,"report","report.html")
+
 
 

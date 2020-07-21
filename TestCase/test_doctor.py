@@ -16,13 +16,12 @@ from Common.do_log import load_my_logging_cfg
 @ddt
 class TestDoctor(unittest.TestCase):
     cases = DoExcel(excel_path).read_excel("doctor")
-
     @classmethod
     def setUpClass(cls):
         cls.hr = HttpRequests("api", "pre_url")
     @data(*cases)
     def test_doctor(self, case):
-        load_my_logging_cfg("医师").info("case传入为：{}".format(case.data))
+        load_my_logging_cfg("医师").info("excel传入的数据：{}".format(case.data))
         if case.url == '/am/v2/doctor/syn':
             case.data = json.loads(case.data)
             doctorname = nameRandomGenerator()
@@ -40,12 +39,15 @@ class TestDoctor(unittest.TestCase):
             case.data["body"]["doctorIdType"] = doctortype
             case.data["body"]["title"] = doctitle
             case.data["body"]["titleCode"] = doccode
+            load_my_logging_cfg("医师").info("传入接口中的数据：{}".format(case.data))
             res = self.hr.http_request(case.method, case.url, data=case.data)
             # 日志
             print("响应", res)
             acture = res["message"]
             expect = case.expect
             self.assertEqual(expect, acture)
+            # 连接数据库
+
             setattr(Context, "openid", res["data"]["openId"])
         else:
             try:
@@ -64,7 +66,6 @@ class TestDoctor(unittest.TestCase):
             acture = res["message"]
             expect = case.expect
             self.assertEqual(expect, acture)
-
     @classmethod
     def tearDownClass(cls):
         pass

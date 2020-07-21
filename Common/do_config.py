@@ -12,7 +12,7 @@ class DoConfig:
         self.cf.read(do_path.global_path)
         switch = self.cf.getboolean("switch", "on")
         if switch:
-            #             # 读测试环境
+            # 读测试环境
             self.cf.read(do_path.beta_path)
         else:
             # 读集成环境

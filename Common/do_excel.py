@@ -14,7 +14,6 @@ class Case:
     url = None
     data = None
     expect = None
-
 class DoExcel:
     def __init__(self,path_excel):
         self.wb = load_workbook(path_excel)
