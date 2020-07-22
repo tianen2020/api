@@ -1,0 +1,605 @@
+[2020-07-21 10:32:30,535][MainThread:14024][task_id:医师][test_doctor.py:25][INFO][case传入为：{
+ "head": {
+  "serviceId": 100,
+  "clientId": "2015112716143758",
+  "clientSecret":111111,
+  "accessToken": "d771087cd4a449b793d77ba6169a25de"
+ },
+ "body": {
+  "doctorName": "doctorname",
+  "phone": "phone",
+  "doctorId": "phone",
+  "uid": "uid",
+  "orgName": "测试医院", 
+  "department": "department",
+  "uidCardType": "SF",
+  "doctorIdType": "idType",
+  "title": "title",
+  "titleCode":"titleCode",
+  "email": "ywq@bjca.org.cn",
+  "telqualification": "",
+  "technicaltitle": "",
+  "speciality": "",
+  "organizationcode": "",
+  "secDepartment": "",
+  "position": ""
+ }
+}]
+[2020-07-21 10:32:30,815][MainThread:14024][task_id:医师][test_doctor.py:25][INFO][case传入为：{        
+    "clientId": "2015112716143758",
+    "accessToken":"3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 10:32:30,816][MainThread:14024][task_id:医师][test_doctor.py:56][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 10:32:30,817][MainThread:14024][task_id:医师][test_doctor.py:58][INFO][当前传入的openid：ddcec5f0e8248e49q20d4wd5cby40b252c2]
+[2020-07-21 10:32:30,849][MainThread:14024][task_id:医师][test_doctor.py:63][INFO][返回的值是：{'data': {'openId': 'ddcec5f0e8248e49q20d4wd5cby40b252c2', 'userStatus': -1}, 'message': 'success', 'status': '0'}]
+[2020-07-21 10:32:30,862][MainThread:14024][task_id:医师][test_doctor.py:25][INFO][case传入为：{        
+    "clientId": "2015112716143758",
+    "accessToken": "3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 10:32:30,865][MainThread:14024][task_id:医师][test_doctor.py:56][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 10:32:30,868][MainThread:14024][task_id:医师][test_doctor.py:58][INFO][当前传入的openid：ddcec5f0e8248e49q20d4wd5cby40b252c2]
+[2020-07-21 10:32:30,889][MainThread:14024][task_id:医师][test_doctor.py:63][INFO][返回的值是：{'data': {}, 'message': 'success', 'status': '0'}]
+[2020-07-21 11:43:28,157][MainThread:30972][task_id:医师][test_doctor.py:24][INFO][case传入为：{
+ "head": {
+  "serviceId": 100,
+  "clientId": "2015112716143758",
+  "clientSecret":111111,
+  "accessToken": "d771087cd4a449b793d77ba6169a25de"
+ },
+ "body": {
+  "doctorName": "doctorname",
+  "phone": "phone",
+  "doctorId": "phone",
+  "uid": "uid",
+  "orgName": "测试医院", 
+  "department": "department",
+  "uidCardType": "SF",
+  "doctorIdType": "idType",
+  "title": "title",
+  "titleCode":"titleCode",
+  "email": "ywq@bjca.org.cn",
+  "telqualification": "",
+  "technicaltitle": "",
+  "speciality": "",
+  "organizationcode": "",
+  "secDepartment": "",
+  "position": ""
+ }
+}]
+[2020-07-21 11:43:28,413][MainThread:30972][task_id:医师][test_doctor.py:24][INFO][case传入为：{        
+    "clientId": "2015112716143758",
+    "accessToken":"3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 11:43:28,413][MainThread:30972][task_id:医师][test_doctor.py:55][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 11:43:28,414][MainThread:30972][task_id:医师][test_doctor.py:57][INFO][当前传入的openid：b423221b2e5f120aq4914w4f1ey1e7ee4ec]
+[2020-07-21 11:43:28,439][MainThread:30972][task_id:医师][test_doctor.py:62][INFO][返回的值是：{'data': {'openId': 'b423221b2e5f120aq4914w4f1ey1e7ee4ec', 'userStatus': -1}, 'message': 'success', 'status': '0'}]
+[2020-07-21 11:43:28,440][MainThread:30972][task_id:医师][test_doctor.py:24][INFO][case传入为：{        
+    "clientId": "2015112716143758",
+    "accessToken": "3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 11:43:28,441][MainThread:30972][task_id:医师][test_doctor.py:55][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 11:43:28,443][MainThread:30972][task_id:医师][test_doctor.py:57][INFO][当前传入的openid：b423221b2e5f120aq4914w4f1ey1e7ee4ec]
+[2020-07-21 11:43:28,460][MainThread:30972][task_id:医师][test_doctor.py:62][INFO][返回的值是：{'data': {}, 'message': 'success', 'status': '0'}]
+[2020-07-21 11:44:47,769][MainThread:12012][task_id:医师][test_doctor.py:24][INFO][case传入为：{
+ "head": {
+  "serviceId": 100,
+  "clientId": "2015112716143758",
+  "clientSecret":111111,
+  "accessToken": "d771087cd4a449b793d77ba6169a25de"
+ },
+ "body": {
+  "doctorName": "doctorname",
+  "phone": "phone",
+  "doctorId": "phone",
+  "uid": "uid",
+  "orgName": "测试医院", 
+  "department": "department",
+  "uidCardType": "SF",
+  "doctorIdType": "idType",
+  "title": "title",
+  "titleCode":"titleCode",
+  "email": "ywq@bjca.org.cn",
+  "telqualification": "",
+  "technicaltitle": "",
+  "speciality": "",
+  "organizationcode": "",
+  "secDepartment": "",
+  "position": ""
+ }
+}]
+[2020-07-21 11:44:47,913][MainThread:12012][task_id:医师][test_doctor.py:24][INFO][case传入为：{        
+    "clientId": "2015112716143758",
+    "accessToken":"3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 11:44:47,914][MainThread:12012][task_id:医师][test_doctor.py:55][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 11:44:47,915][MainThread:12012][task_id:医师][test_doctor.py:57][INFO][当前传入的openid：ce94afdc839b21dbqc814w8e65y817f1817]
+[2020-07-21 11:44:47,942][MainThread:12012][task_id:医师][test_doctor.py:62][INFO][返回的值是：{'data': {'openId': 'ce94afdc839b21dbqc814w8e65y817f1817', 'userStatus': -1}, 'message': 'success', 'status': '0'}]
+[2020-07-21 11:44:47,942][MainThread:12012][task_id:医师][test_doctor.py:24][INFO][case传入为：{        
+    "clientId": "2015112716143758",
+    "accessToken": "3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 11:44:47,943][MainThread:12012][task_id:医师][test_doctor.py:55][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 11:44:47,944][MainThread:12012][task_id:医师][test_doctor.py:57][INFO][当前传入的openid：ce94afdc839b21dbqc814w8e65y817f1817]
+[2020-07-21 11:44:47,960][MainThread:12012][task_id:医师][test_doctor.py:62][INFO][返回的值是：{'data': {}, 'message': 'success', 'status': '0'}]
+[2020-07-21 11:45:15,780][MainThread:34124][task_id:医师][test_doctor.py:24][INFO][case传入为：{
+ "head": {
+  "serviceId": 100,
+  "clientId": "2015112716143758",
+  "clientSecret":111111,
+  "accessToken": "d771087cd4a449b793d77ba6169a25de"
+ },
+ "body": {
+  "doctorName": "doctorname",
+  "phone": "phone",
+  "doctorId": "phone",
+  "uid": "uid",
+  "orgName": "测试医院", 
+  "department": "department",
+  "uidCardType": "SF",
+  "doctorIdType": "idType",
+  "title": "title",
+  "titleCode":"titleCode",
+  "email": "ywq@bjca.org.cn",
+  "telqualification": "",
+  "technicaltitle": "",
+  "speciality": "",
+  "organizationcode": "",
+  "secDepartment": "",
+  "position": ""
+ }
+}]
+[2020-07-21 11:45:15,897][MainThread:34124][task_id:医师][test_doctor.py:24][INFO][case传入为：{        
+    "clientId": "2015112716143758",
+    "accessToken":"3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 11:45:15,897][MainThread:34124][task_id:医师][test_doctor.py:55][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 11:45:15,898][MainThread:34124][task_id:医师][test_doctor.py:57][INFO][当前传入的openid：24e4c639b0b5c68aq34b4wf541y5ae6b5b1]
+[2020-07-21 11:45:15,923][MainThread:34124][task_id:医师][test_doctor.py:62][INFO][返回的值是：{'data': {'openId': '24e4c639b0b5c68aq34b4wf541y5ae6b5b1', 'userStatus': -1}, 'message': 'success', 'status': '0'}]
+[2020-07-21 11:45:15,924][MainThread:34124][task_id:医师][test_doctor.py:24][INFO][case传入为：{        
+    "clientId": "2015112716143758",
+    "accessToken": "3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 11:45:15,925][MainThread:34124][task_id:医师][test_doctor.py:55][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 11:45:15,925][MainThread:34124][task_id:医师][test_doctor.py:57][INFO][当前传入的openid：24e4c639b0b5c68aq34b4wf541y5ae6b5b1]
+[2020-07-21 11:45:15,940][MainThread:34124][task_id:医师][test_doctor.py:62][INFO][返回的值是：{'data': {}, 'message': 'success', 'status': '0'}]
+[2020-07-21 11:46:23,764][MainThread:25616][task_id:医师][test_doctor.py:24][INFO][case传入为：{
+ "head": {
+  "serviceId": 100,
+  "clientId": "2015112716143758",
+  "clientSecret":111111,
+  "accessToken": "d771087cd4a449b793d77ba6169a25de"
+ },
+ "body": {
+  "doctorName": "doctorname",
+  "phone": "phone",
+  "doctorId": "phone",
+  "uid": "uid",
+  "orgName": "测试医院", 
+  "department": "department",
+  "uidCardType": "SF",
+  "doctorIdType": "idType",
+  "title": "title",
+  "titleCode":"titleCode",
+  "email": "ywq@bjca.org.cn",
+  "telqualification": "",
+  "technicaltitle": "",
+  "speciality": "",
+  "organizationcode": "",
+  "secDepartment": "",
+  "position": ""
+ }
+}]
+[2020-07-21 11:46:23,942][MainThread:25616][task_id:医师][test_doctor.py:24][INFO][case传入为：{        
+    "clientId": "2015112716143758",
+    "accessToken":"3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 11:46:23,944][MainThread:25616][task_id:医师][test_doctor.py:55][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 11:46:23,946][MainThread:25616][task_id:医师][test_doctor.py:57][INFO][当前传入的openid：f0cf099e86c858fbq3b04w7f13y7b095140]
+[2020-07-21 11:46:23,979][MainThread:25616][task_id:医师][test_doctor.py:62][INFO][返回的值是：{'data': {'openId': 'f0cf099e86c858fbq3b04w7f13y7b095140', 'userStatus': -1}, 'message': 'success', 'status': '0'}]
+[2020-07-21 11:46:23,980][MainThread:25616][task_id:医师][test_doctor.py:24][INFO][case传入为：{        
+    "clientId": "2015112716143758",
+    "accessToken": "3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 11:46:23,980][MainThread:25616][task_id:医师][test_doctor.py:55][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 11:46:23,981][MainThread:25616][task_id:医师][test_doctor.py:57][INFO][当前传入的openid：f0cf099e86c858fbq3b04w7f13y7b095140]
+[2020-07-21 11:46:24,002][MainThread:25616][task_id:医师][test_doctor.py:62][INFO][返回的值是：{'data': {}, 'message': 'success', 'status': '0'}]
+[2020-07-21 11:46:41,465][MainThread:33820][task_id:医师][test_doctor.py:24][INFO][case传入为：{
+ "head": {
+  "serviceId": 100,
+  "clientId": "2015112716143758",
+  "clientSecret":111111,
+  "accessToken": "d771087cd4a449b793d77ba6169a25de"
+ },
+ "body": {
+  "doctorName": "doctorname",
+  "phone": "phone",
+  "doctorId": "phone",
+  "uid": "uid",
+  "orgName": "测试医院", 
+  "department": "department",
+  "uidCardType": "SF",
+  "doctorIdType": "idType",
+  "title": "title",
+  "titleCode":"titleCode",
+  "email": "ywq@bjca.org.cn",
+  "telqualification": "",
+  "technicaltitle": "",
+  "speciality": "",
+  "organizationcode": "",
+  "secDepartment": "",
+  "position": ""
+ }
+}]
+[2020-07-21 11:46:41,600][MainThread:33820][task_id:医师][test_doctor.py:24][INFO][case传入为：{        
+    "clientId": "2015112716143758",
+    "accessToken":"3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 11:46:41,602][MainThread:33820][task_id:医师][test_doctor.py:55][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 11:46:41,605][MainThread:33820][task_id:医师][test_doctor.py:57][INFO][当前传入的openid：1f659c11af336b4bqac14wb7aayee248f94]
+[2020-07-21 11:46:41,644][MainThread:33820][task_id:医师][test_doctor.py:62][INFO][返回的值是：{'data': {'openId': '1f659c11af336b4bqac14wb7aayee248f94', 'userStatus': -1}, 'message': 'success', 'status': '0'}]
+[2020-07-21 11:46:41,647][MainThread:33820][task_id:医师][test_doctor.py:24][INFO][case传入为：{        
+    "clientId": "2015112716143758",
+    "accessToken": "3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 11:46:41,650][MainThread:33820][task_id:医师][test_doctor.py:55][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 11:46:41,653][MainThread:33820][task_id:医师][test_doctor.py:57][INFO][当前传入的openid：1f659c11af336b4bqac14wb7aayee248f94]
+[2020-07-21 11:46:41,681][MainThread:33820][task_id:医师][test_doctor.py:62][INFO][返回的值是：{'data': {}, 'message': 'success', 'status': '0'}]
+[2020-07-21 11:46:56,795][MainThread:31340][task_id:医师][test_doctor.py:24][INFO][case传入为：{
+ "head": {
+  "serviceId": 100,
+  "clientId": "2015112716143758",
+  "clientSecret":111111,
+  "accessToken": "d771087cd4a449b793d77ba6169a25de"
+ },
+ "body": {
+  "doctorName": "doctorname",
+  "phone": "phone",
+  "doctorId": "phone",
+  "uid": "uid",
+  "orgName": "测试医院", 
+  "department": "department",
+  "uidCardType": "SF",
+  "doctorIdType": "idType",
+  "title": "title",
+  "titleCode":"titleCode",
+  "email": "ywq@bjca.org.cn",
+  "telqualification": "",
+  "technicaltitle": "",
+  "speciality": "",
+  "organizationcode": "",
+  "secDepartment": "",
+  "position": ""
+ }
+}]
+[2020-07-21 11:46:56,945][MainThread:31340][task_id:医师][test_doctor.py:24][INFO][case传入为：{        
+    "clientId": "2015112716143758",
+    "accessToken":"3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 11:46:56,946][MainThread:31340][task_id:医师][test_doctor.py:55][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 11:46:56,946][MainThread:31340][task_id:医师][test_doctor.py:57][INFO][当前传入的openid：670129a27d02c258q4834w0ff3y97d11d8e]
+[2020-07-21 11:46:56,987][MainThread:31340][task_id:医师][test_doctor.py:62][INFO][返回的值是：{'data': {'openId': '670129a27d02c258q4834w0ff3y97d11d8e', 'userStatus': -1}, 'message': 'success', 'status': '0'}]
+[2020-07-21 11:46:56,987][MainThread:31340][task_id:医师][test_doctor.py:24][INFO][case传入为：{        
+    "clientId": "2015112716143758",
+    "accessToken": "3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 11:46:56,988][MainThread:31340][task_id:医师][test_doctor.py:55][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 11:46:56,989][MainThread:31340][task_id:医师][test_doctor.py:57][INFO][当前传入的openid：670129a27d02c258q4834w0ff3y97d11d8e]
+[2020-07-21 11:46:57,018][MainThread:31340][task_id:医师][test_doctor.py:62][INFO][返回的值是：{'data': {}, 'message': 'success', 'status': '0'}]
+[2020-07-21 11:47:16,176][MainThread:10284][task_id:医师][test_doctor.py:24][INFO][case传入为：{
+ "head": {
+  "serviceId": 100,
+  "clientId": "2015112716143758",
+  "clientSecret":111111,
+  "accessToken": "d771087cd4a449b793d77ba6169a25de"
+ },
+ "body": {
+  "doctorName": "doctorname",
+  "phone": "phone",
+  "doctorId": "phone",
+  "uid": "uid",
+  "orgName": "测试医院", 
+  "department": "department",
+  "uidCardType": "SF",
+  "doctorIdType": "idType",
+  "title": "title",
+  "titleCode":"titleCode",
+  "email": "ywq@bjca.org.cn",
+  "telqualification": "",
+  "technicaltitle": "",
+  "speciality": "",
+  "organizationcode": "",
+  "secDepartment": "",
+  "position": ""
+ }
+}]
+[2020-07-21 11:47:16,287][MainThread:10284][task_id:医师][test_doctor.py:24][INFO][case传入为：{        
+    "clientId": "2015112716143758",
+    "accessToken":"3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 11:47:16,288][MainThread:10284][task_id:医师][test_doctor.py:55][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 11:47:16,289][MainThread:10284][task_id:医师][test_doctor.py:57][INFO][当前传入的openid：1a58952c4a11415aqb6e4wc3dcyc88389f1]
+[2020-07-21 11:47:16,314][MainThread:10284][task_id:医师][test_doctor.py:62][INFO][返回的值是：{'data': {'openId': '1a58952c4a11415aqb6e4wc3dcyc88389f1', 'userStatus': -1}, 'message': 'success', 'status': '0'}]
+[2020-07-21 11:47:16,314][MainThread:10284][task_id:医师][test_doctor.py:24][INFO][case传入为：{        
+    "clientId": "2015112716143758",
+    "accessToken": "3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 11:47:16,315][MainThread:10284][task_id:医师][test_doctor.py:55][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 11:47:16,316][MainThread:10284][task_id:医师][test_doctor.py:57][INFO][当前传入的openid：1a58952c4a11415aqb6e4wc3dcyc88389f1]
+[2020-07-21 11:47:16,331][MainThread:10284][task_id:医师][test_doctor.py:62][INFO][返回的值是：{'data': {}, 'message': 'success', 'status': '0'}]
+[2020-07-21 11:51:03,805][MainThread:34444][task_id:医师][test_doctor.py:24][INFO][case传入为：{
+ "head": {
+  "serviceId": 100,
+  "clientId": "2015112716143758",
+  "clientSecret":111111,
+  "accessToken": "d771087cd4a449b793d77ba6169a25de"
+ },
+ "body": {
+  "doctorName": "doctorname",
+  "phone": "phone",
+  "doctorId": "phone",
+  "uid": "uid",
+  "orgName": "测试医院", 
+  "department": "department",
+  "uidCardType": "SF",
+  "doctorIdType": "idType",
+  "title": "title",
+  "titleCode":"titleCode",
+  "email": "ywq@bjca.org.cn",
+  "telqualification": "",
+  "technicaltitle": "",
+  "speciality": "",
+  "organizationcode": "",
+  "secDepartment": "",
+  "position": ""
+ }
+}]
+[2020-07-21 11:51:03,929][MainThread:34444][task_id:医师][test_doctor.py:24][INFO][case传入为：{        
+    "clientId": "2015112716143758",
+    "accessToken":"3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 11:51:03,932][MainThread:34444][task_id:医师][test_doctor.py:55][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 11:51:03,934][MainThread:34444][task_id:医师][test_doctor.py:57][INFO][当前传入的openid：0814872e2a0f9a2aq0de4w88a0ycaf50531]
+[2020-07-21 11:51:03,967][MainThread:34444][task_id:医师][test_doctor.py:62][INFO][返回的值是：{'data': {'openId': '0814872e2a0f9a2aq0de4w88a0ycaf50531', 'userStatus': -1}, 'message': 'success', 'status': '0'}]
+[2020-07-21 11:51:03,971][MainThread:34444][task_id:医师][test_doctor.py:24][INFO][case传入为：{        
+    "clientId": "2015112716143758",
+    "accessToken": "3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 11:51:03,973][MainThread:34444][task_id:医师][test_doctor.py:55][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 11:51:03,978][MainThread:34444][task_id:医师][test_doctor.py:57][INFO][当前传入的openid：0814872e2a0f9a2aq0de4w88a0ycaf50531]
+[2020-07-21 11:51:04,000][MainThread:34444][task_id:医师][test_doctor.py:62][INFO][返回的值是：{'data': {}, 'message': 'success', 'status': '0'}]
+[2020-07-21 12:07:44,043][MainThread:29052][task_id:医师][test_doctor.py:24][INFO][case传入为：{
+ "head": {
+  "serviceId": 100,
+  "clientId": "2015112716143758",
+  "clientSecret":111111,
+  "accessToken": "d771087cd4a449b793d77ba6169a25de"
+ },
+ "body": {
+  "doctorName": "doctorname",
+  "phone": "phone",
+  "doctorId": "phone",
+  "uid": "uid",
+  "orgName": "测试医院", 
+  "department": "department",
+  "uidCardType": "SF",
+  "doctorIdType": "idType",
+  "title": "title",
+  "titleCode":"titleCode",
+  "email": "ywq@bjca.org.cn",
+  "telqualification": "",
+  "technicaltitle": "",
+  "speciality": "",
+  "organizationcode": "",
+  "secDepartment": "",
+  "position": ""
+ }
+}]
+[2020-07-21 12:07:44,415][MainThread:29052][task_id:医师][test_doctor.py:24][INFO][case传入为：{        
+    "clientId": "2015112716143758",
+    "accessToken":"3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 12:07:44,417][MainThread:29052][task_id:医师][test_doctor.py:55][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 12:07:44,420][MainThread:29052][task_id:医师][test_doctor.py:57][INFO][当前传入的openid：59b02a4d13bc75a9qb604w192ay04bb6938]
+[2020-07-21 12:07:44,452][MainThread:29052][task_id:医师][test_doctor.py:62][INFO][返回的值是：{'data': {'openId': '59b02a4d13bc75a9qb604w192ay04bb6938', 'userStatus': -1}, 'message': 'success', 'status': '0'}]
+[2020-07-21 12:07:44,455][MainThread:29052][task_id:医师][test_doctor.py:24][INFO][case传入为：{        
+    "clientId": "2015112716143758",
+    "accessToken": "3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 12:07:44,457][MainThread:29052][task_id:医师][test_doctor.py:55][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 12:07:44,460][MainThread:29052][task_id:医师][test_doctor.py:57][INFO][当前传入的openid：59b02a4d13bc75a9qb604w192ay04bb6938]
+[2020-07-21 12:07:44,483][MainThread:29052][task_id:医师][test_doctor.py:62][INFO][返回的值是：{'data': {}, 'message': 'success', 'status': '0'}]
+[2020-07-21 12:38:00,431][MainThread:15320][task_id:医师][test_doctor.py:24][INFO][case传入为：{
+ "head": {
+  "serviceId": 100,
+  "clientId": "2015112716143758",
+  "clientSecret":111111,
+  "accessToken": "d771087cd4a449b793d77ba6169a25de"
+ },
+ "body": {
+  "doctorName": "doctorname",
+  "phone": "phone",
+  "doctorId": "phone",
+  "uid": "uid",
+  "orgName": "测试医院", 
+  "department": "department",
+  "uidCardType": "SF",
+  "doctorIdType": "idType",
+  "title": "title",
+  "titleCode":"titleCode",
+  "email": "ywq@bjca.org.cn",
+  "telqualification": "",
+  "technicaltitle": "",
+  "speciality": "",
+  "organizationcode": "",
+  "secDepartment": "",
+  "position": ""
+ }
+}]
+[2020-07-21 12:38:00,619][MainThread:15320][task_id:医师][test_doctor.py:24][INFO][case传入为：{        
+    "clientId": "2015112716143758",
+    "accessToken":"3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 12:38:00,622][MainThread:15320][task_id:医师][test_doctor.py:55][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 12:38:00,624][MainThread:15320][task_id:医师][test_doctor.py:57][INFO][当前传入的openid：60a5a1749df33ab9q10f4w6b4fyc3a0f00c]
+[2020-07-21 12:38:00,659][MainThread:15320][task_id:医师][test_doctor.py:62][INFO][返回的值是：{'data': {'openId': '60a5a1749df33ab9q10f4w6b4fyc3a0f00c', 'userStatus': -1}, 'message': 'success', 'status': '0'}]
+[2020-07-21 12:38:00,662][MainThread:15320][task_id:医师][test_doctor.py:24][INFO][case传入为：{        
+    "clientId": "2015112716143758",
+    "accessToken": "3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 12:38:00,663][MainThread:15320][task_id:医师][test_doctor.py:55][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 12:38:00,664][MainThread:15320][task_id:医师][test_doctor.py:57][INFO][当前传入的openid：60a5a1749df33ab9q10f4w6b4fyc3a0f00c]
+[2020-07-21 12:38:00,683][MainThread:15320][task_id:医师][test_doctor.py:62][INFO][返回的值是：{'data': {}, 'message': 'success', 'status': '0'}]
+[2020-07-21 15:04:36,989][MainThread:27404][task_id:医师][test_doctor.py:24][INFO][excel传入的数据：{
+ "head": {
+  "serviceId": 100,
+  "clientId": "2015112716143758",
+  "clientSecret":111111,
+  "accessToken": "d771087cd4a449b793d77ba6169a25de"
+ },
+ "body": {
+  "doctorName": "doctorname",
+  "phone": "phone",
+  "doctorId": "phone",
+  "uid": "uid",
+  "orgName": "测试医院", 
+  "department": "department",
+  "uidCardType": "SF",
+  "doctorIdType": "idType",
+  "title": "title",
+  "titleCode":"titleCode",
+  "email": "ywq@bjca.org.cn",
+  "telqualification": "",
+  "technicaltitle": "",
+  "speciality": "",
+  "organizationcode": "",
+  "secDepartment": "",
+  "position": ""
+ }
+}]
+[2020-07-21 15:04:36,990][MainThread:27404][task_id:医师][test_doctor.py:42][INFO][传入接口中的数据：{'head': {'serviceId': 100, 'clientId': '2015112716143758', 'clientSecret': 111111, 'accessToken': 'd771087cd4a449b793d77ba6169a25de'}, 'body': {'doctorName': '哥舞', 'phone': '15201459207', 'doctorId': '15201459207', 'uid': '120103199304086601', 'orgName': '测试医院', 'department': '儿科', 'uidCardType': 'SF', 'doctorIdType': 'HS', 'title': '助理医师', 'titleCode': 'QT', 'email': 'ywq@bjca.org.cn', 'telqualification': '', 'technicaltitle': '', 'speciality': '', 'organizationcode': '', 'secDepartment': '', 'position': ''}}]
+[2020-07-21 15:04:37,193][MainThread:27404][task_id:医师][test_doctor.py:24][INFO][excel传入的数据：{        
+    "clientId": "2015112716143758",
+    "accessToken":"3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 15:04:37,195][MainThread:27404][task_id:医师][test_doctor.py:56][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 15:04:37,198][MainThread:27404][task_id:医师][test_doctor.py:58][INFO][当前传入的openid：03a39f3120b9fa18q86d4wfa39y8542f180]
+[2020-07-21 15:04:37,233][MainThread:27404][task_id:医师][test_doctor.py:63][INFO][返回的值是：{'data': {'openId': '03a39f3120b9fa18q86d4wfa39y8542f180', 'userStatus': -1}, 'message': 'success', 'status': '0'}]
+[2020-07-21 15:04:37,235][MainThread:27404][task_id:医师][test_doctor.py:24][INFO][excel传入的数据：{        
+    "clientId": "2015112716143758",
+    "accessToken": "3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 15:04:37,238][MainThread:27404][task_id:医师][test_doctor.py:56][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 15:04:37,242][MainThread:27404][task_id:医师][test_doctor.py:58][INFO][当前传入的openid：03a39f3120b9fa18q86d4wfa39y8542f180]
+[2020-07-21 15:04:37,266][MainThread:27404][task_id:医师][test_doctor.py:63][INFO][返回的值是：{'data': {}, 'message': 'success', 'status': '0'}]
+[2020-07-21 15:07:25,102][MainThread:5192][task_id:医师][test_doctor.py:24][INFO][excel传入的数据：{
+ "head": {
+  "serviceId": 100,
+  "clientId": "2015112716143758",
+  "clientSecret":111111,
+  "accessToken": "d771087cd4a449b793d77ba6169a25de"
+ },
+ "body": {
+  "doctorName": "doctorname",
+  "phone": "phone",
+  "doctorId": "phone",
+  "uid": "uid",
+  "orgName": "测试医院", 
+  "department": "department",
+  "uidCardType": "SF",
+  "doctorIdType": "idType",
+  "title": "title",
+  "titleCode":"titleCode",
+  "email": "ywq@bjca.org.cn",
+  "telqualification": "",
+  "technicaltitle": "",
+  "speciality": "",
+  "organizationcode": "",
+  "secDepartment": "",
+  "position": ""
+ }
+}]
+[2020-07-21 15:07:25,102][MainThread:5192][task_id:医师][test_doctor.py:42][INFO][传入接口中的数据：{'head': {'serviceId': 100, 'clientId': '2015112716143758', 'clientSecret': 111111, 'accessToken': 'd771087cd4a449b793d77ba6169a25de'}, 'body': {'doctorName': '武张', 'phone': '13819283821', 'doctorId': '13819283821', 'uid': '110000198909276431', 'orgName': '测试医院', 'department': '眼科', 'uidCardType': 'SF', 'doctorIdType': 'HS', 'title': '实习医师', 'titleCode': 'SXYS', 'email': 'ywq@bjca.org.cn', 'telqualification': '', 'technicaltitle': '', 'speciality': '', 'organizationcode': '', 'secDepartment': '', 'position': ''}}]
+[2020-07-21 15:07:25,309][MainThread:5192][task_id:医师][test_doctor.py:24][INFO][excel传入的数据：{        
+    "clientId": "2015112716143758",
+    "accessToken":"3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 15:07:25,311][MainThread:5192][task_id:医师][test_doctor.py:56][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 15:07:25,313][MainThread:5192][task_id:医师][test_doctor.py:58][INFO][当前传入的openid：e8f8b4318301660bq6524wf572y78375aa0]
+[2020-07-21 15:07:25,355][MainThread:5192][task_id:医师][test_doctor.py:63][INFO][返回的值是：{'data': {'openId': 'e8f8b4318301660bq6524wf572y78375aa0', 'userStatus': -1}, 'message': 'success', 'status': '0'}]
+[2020-07-21 15:07:25,357][MainThread:5192][task_id:医师][test_doctor.py:24][INFO][excel传入的数据：{        
+    "clientId": "2015112716143758",
+    "accessToken": "3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 15:07:25,360][MainThread:5192][task_id:医师][test_doctor.py:56][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 15:07:25,362][MainThread:5192][task_id:医师][test_doctor.py:58][INFO][当前传入的openid：e8f8b4318301660bq6524wf572y78375aa0]
+[2020-07-21 15:07:25,410][MainThread:5192][task_id:医师][test_doctor.py:63][INFO][返回的值是：{'data': {}, 'message': 'success', 'status': '0'}]
+[2020-07-21 15:16:00,040][MainThread:11244][task_id:医师][test_doctor.py:24][INFO][excel传入的数据：{
+ "head": {
+  "serviceId": 100,
+  "clientId": "2015112716143758",
+  "clientSecret":111111,
+  "accessToken": "d771087cd4a449b793d77ba6169a25de"
+ },
+ "body": {
+  "doctorName": "doctorname",
+  "phone": "phone",
+  "doctorId": "phone",
+  "uid": "uid",
+  "orgName": "测试医院", 
+  "department": "department",
+  "uidCardType": "SF",
+  "doctorIdType": "idType",
+  "title": "title",
+  "titleCode":"titleCode",
+  "email": "ywq@bjca.org.cn",
+  "telqualification": "",
+  "technicaltitle": "",
+  "speciality": "",
+  "organizationcode": "",
+  "secDepartment": "",
+  "position": ""
+ }
+}]
+[2020-07-21 15:16:00,041][MainThread:11244][task_id:医师][test_doctor.py:42][INFO][传入接口中的数据：{'head': {'serviceId': 100, 'clientId': '2015112716143758', 'clientSecret': 111111, 'accessToken': 'd771087cd4a449b793d77ba6169a25de'}, 'body': {'doctorName': '天百', 'phone': '15535482133', 'doctorId': '15535482133', 'uid': '110000198102081799', 'orgName': '测试医院', 'department': '眼科', 'uidCardType': 'SF', 'doctorIdType': 'YY', 'title': '副主任护师', 'titleCode': 'FZRHS', 'email': 'ywq@bjca.org.cn', 'telqualification': '', 'technicaltitle': '', 'speciality': '', 'organizationcode': '', 'secDepartment': '', 'position': ''}}]
+[2020-07-21 15:16:00,161][MainThread:11244][task_id:医师][test_doctor.py:24][INFO][excel传入的数据：{        
+    "clientId": "2015112716143758",
+    "accessToken":"3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 15:16:00,162][MainThread:11244][task_id:医师][test_doctor.py:58][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 15:16:00,162][MainThread:11244][task_id:医师][test_doctor.py:60][INFO][当前传入的openid：276b7acfca35014aq0634w2b4ay7227d71b]
+[2020-07-21 15:16:00,192][MainThread:11244][task_id:医师][test_doctor.py:65][INFO][返回的值是：{'data': {'openId': '276b7acfca35014aq0634w2b4ay7227d71b', 'userStatus': -1}, 'message': 'success', 'status': '0'}]
+[2020-07-21 15:16:00,192][MainThread:11244][task_id:医师][test_doctor.py:24][INFO][excel传入的数据：{        
+    "clientId": "2015112716143758",
+    "accessToken": "3acf90558ac64143ab39d37170ee568c",
+    "openId": "openid"
+}]
+[2020-07-21 15:16:00,195][MainThread:11244][task_id:医师][test_doctor.py:58][INFO][当前传入的data：{'clientId': '2015112716143758', 'accessToken': '3acf90558ac64143ab39d37170ee568c', 'openId': 'openid'}]
+[2020-07-21 15:16:00,195][MainThread:11244][task_id:医师][test_doctor.py:60][INFO][当前传入的openid：276b7acfca35014aq0634w2b4ay7227d71b]
+[2020-07-21 15:16:00,223][MainThread:11244][task_id:医师][test_doctor.py:65][INFO][返回的值是：{'data': {}, 'message': 'success', 'status': '0'}]
